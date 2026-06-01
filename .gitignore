@@ -1,0 +1,21 @@
+```gitignore id="hn0j5d"
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Exported Files
+exports/
+
+# Streamlit Cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+```
