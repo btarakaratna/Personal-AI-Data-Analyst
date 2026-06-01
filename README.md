@@ -15,8 +15,6 @@
 *A premium AI-powered analytics platform that combines AI, Machine Learning,*
 *and Interactive Data Visualization into one intelligent system.*
 
-*Feels like ChatGPT + Tableau + Power BI — all in one.*
-
 </div>
 
 ---
