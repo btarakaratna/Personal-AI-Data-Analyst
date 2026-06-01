@@ -628,7 +628,7 @@ ollama list  # verify it appears
 <div align="center">
 
 ### **B Taraka Ratna**
-#### MSc Data Science — Final Year Project
+#### MSc Informatics — Final Year Project
 
 *Personal AI Data Analyst — Intelligent AI-Powered Data Analytics Platform*
 
